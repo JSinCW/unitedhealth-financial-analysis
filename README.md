@@ -61,3 +61,7 @@ The model also projected operating costs, earnings, and net income to evaluate f
 ## Repository Contents
 
 This repository contains the Excel workbook used for the financial analysis and forecasting model.
+
+## Project File
+
+- [View Excel Financial Model](UnitedHealth_Financial_Analysis.xlsx)
